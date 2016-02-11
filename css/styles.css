@@ -125,6 +125,7 @@ h1 {
   position:absolute;
   top:400px;
   left:1100px;
+
 }
 
 .uakari img {
@@ -148,4 +149,29 @@ h1 {
   position:absolute;
   top:560px;
   left: 620px;
+}
+.aboutBigfoot img{
+  position: absolute;
+  top: -3px;
+  left: -3px;
+  height: 100%;
+}
+
+  .facts h1 {
+  position: absolute;
+  color: red;
+  top: 2px;
+  left: 25px;
+  text-shadow: 2px 2px 2px white, 12px 12px 12px black;
+
+
+}
+.facts p{
+  color: white;
+  width: 500px;
+  position: absolute;
+  top: 800px;
+  left: 1250px;
+  font-size: 1.4em;
+
 }
